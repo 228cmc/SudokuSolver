@@ -81,6 +81,5 @@ The file `Report.pdf` provides additional context on:
 ## Notes
 
 - The puzzle files (`.npy`) are structured as arrays with shape (15, 9, 9).
-- The solution must not rely on external scripts. All logic should run within the notebook.
-- Avoid duplicating notebook cells, as this may interfere with the automated marking system.
+
 ```
